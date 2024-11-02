@@ -1,0 +1,42 @@
+.body {
+    background: #fff;
+}
+.header-logo {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+color: #4d5ae5;
+}
+.header-logo-black {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+color: #2e2f42;
+}
+
+#contactsS {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #06ce35;
+}
+
+.first {
+    background: #2e2f42;
+}
+
+#studio {
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
